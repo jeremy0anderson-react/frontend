@@ -1,0 +1,8 @@
+.env
+node_modules
+.firebaserc
+/.firebaserc
+functions
+firebase.json
+/client/build
+/client/src/assets/hank.png
